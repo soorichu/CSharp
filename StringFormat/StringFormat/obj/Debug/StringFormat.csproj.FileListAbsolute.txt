@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\StringFormat\StringFormat\bin\Debug\StringFormat.exe.config
+C:\Users\user\source\repos\StringFormat\StringFormat\bin\Debug\StringFormat.exe
+C:\Users\user\source\repos\StringFormat\StringFormat\bin\Debug\StringFormat.pdb
+C:\Users\user\source\repos\StringFormat\StringFormat\obj\Debug\StringFormat.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StringFormat\StringFormat\obj\Debug\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringFormat\StringFormat\obj\Debug\StringFormat.exe
+C:\Users\user\source\repos\StringFormat\StringFormat\obj\Debug\StringFormat.pdb
