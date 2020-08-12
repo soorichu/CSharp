@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MethodStudy\MethodStudy\bin\Debug\MethodStudy.exe.config
+C:\Users\user\source\repos\MethodStudy\MethodStudy\bin\Debug\MethodStudy.exe
+C:\Users\user\source\repos\MethodStudy\MethodStudy\bin\Debug\MethodStudy.pdb
+C:\Users\user\source\repos\MethodStudy\MethodStudy\obj\Debug\MethodStudy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MethodStudy\MethodStudy\obj\Debug\MethodStudy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodStudy\MethodStudy\obj\Debug\MethodStudy.exe
+C:\Users\user\source\repos\MethodStudy\MethodStudy\obj\Debug\MethodStudy.pdb
