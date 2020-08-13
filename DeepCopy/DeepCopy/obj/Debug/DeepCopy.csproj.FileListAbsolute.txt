@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\DeepCopy\DeepCopy\bin\Debug\DeepCopy.exe.config
+C:\Users\user\source\repos\DeepCopy\DeepCopy\bin\Debug\DeepCopy.exe
+C:\Users\user\source\repos\DeepCopy\DeepCopy\bin\Debug\DeepCopy.pdb
+C:\Users\user\source\repos\DeepCopy\DeepCopy\obj\Debug\DeepCopy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DeepCopy\DeepCopy\obj\Debug\DeepCopy.exe
+C:\Users\user\source\repos\DeepCopy\DeepCopy\obj\Debug\DeepCopy.pdb

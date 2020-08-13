@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\BasicClass\BasicClass\bin\Debug\BasicClass.exe.config
+C:\Users\user\source\repos\BasicClass\BasicClass\bin\Debug\BasicClass.exe
+C:\Users\user\source\repos\BasicClass\BasicClass\bin\Debug\BasicClass.pdb
+C:\Users\user\source\repos\BasicClass\BasicClass\obj\Debug\BasicClass.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BasicClass\BasicClass\obj\Debug\BasicClass.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BasicClass\BasicClass\obj\Debug\BasicClass.exe
+C:\Users\user\source\repos\BasicClass\BasicClass\obj\Debug\BasicClass.pdb
