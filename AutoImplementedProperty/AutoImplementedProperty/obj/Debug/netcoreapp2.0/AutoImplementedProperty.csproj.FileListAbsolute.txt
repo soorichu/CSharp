@@ -1,0 +1,11 @@
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp2.0\AutoImplementedProperty.deps.json
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp2.0\AutoImplementedProperty.runtimeconfig.json
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp2.0\AutoImplementedProperty.runtimeconfig.dev.json
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp2.0\AutoImplementedProperty.dll
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\netcoreapp2.0\AutoImplementedProperty.pdb
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp2.0\AutoImplementedProperty.csprojResolveAssemblyReference.cache
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp2.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp2.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp2.0\AutoImplementedProperty.AssemblyInfo.cs
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp2.0\AutoImplementedProperty.dll
+C:\Users\Soo-Young\source\repos\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\netcoreapp2.0\AutoImplementedProperty.pdb

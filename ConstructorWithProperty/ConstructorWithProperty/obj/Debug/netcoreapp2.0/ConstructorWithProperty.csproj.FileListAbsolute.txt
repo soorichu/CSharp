@@ -1,0 +1,11 @@
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp2.0\ConstructorWithProperty.deps.json
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp2.0\ConstructorWithProperty.runtimeconfig.json
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp2.0\ConstructorWithProperty.runtimeconfig.dev.json
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp2.0\ConstructorWithProperty.dll
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\bin\Debug\netcoreapp2.0\ConstructorWithProperty.pdb
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp2.0\ConstructorWithProperty.csprojResolveAssemblyReference.cache
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp2.0\ConstructorWithProperty.csproj.CoreCompileInputs.cache
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp2.0\ConstructorWithProperty.AssemblyInfoInputs.cache
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp2.0\ConstructorWithProperty.AssemblyInfo.cs
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp2.0\ConstructorWithProperty.dll
+C:\Users\Soo-Young\source\repos\ConstructorWithProperty\ConstructorWithProperty\obj\Debug\netcoreapp2.0\ConstructorWithProperty.pdb
