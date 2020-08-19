@@ -1,0 +1,7 @@
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe.config
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.exe
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\bin\Debug\DerivedInterface.pdb
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.csprojResolveAssemblyReference.cache
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.csproj.CoreCompileInputs.cache
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.exe
+C:\Users\Soo-Young\source\repos\DerivedInterface\DerivedInterface\obj\Debug\DerivedInterface.pdb
