@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DatabaseView\DatabaseView\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\DatabaseView\DatabaseView\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\DatabaseView\DatabaseView\bin\Debug\DatabaseView.exe.config
+C:\Users\User\source\repos\DatabaseView\DatabaseView\bin\Debug\DatabaseView.exe
+C:\Users\User\source\repos\DatabaseView\DatabaseView\bin\Debug\DatabaseView.pdb
+C:\Users\User\source\repos\DatabaseView\DatabaseView\obj\Debug\DatabaseView.Form1.resources
+C:\Users\User\source\repos\DatabaseView\DatabaseView\obj\Debug\DatabaseView.Properties.Resources.resources
+C:\Users\User\source\repos\DatabaseView\DatabaseView\obj\Debug\DatabaseView.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DatabaseView\DatabaseView\obj\Debug\DatabaseView.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DatabaseView\DatabaseView\obj\Debug\DatabaseView.exe
+C:\Users\User\source\repos\DatabaseView\DatabaseView\obj\Debug\DatabaseView.pdb
